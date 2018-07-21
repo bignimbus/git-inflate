@@ -1,5 +1,19 @@
 # git-inflate
-Ethically questionable tips for maximizing your git stats
+Ethically
+
+questionable
+
+tips
+
+for
+
+maximizing
+
+your
+
+git
+
+stats
 
 ## About
 When you're productive and you really want to get that point across, you need to make sure you're pumping up your stats.
