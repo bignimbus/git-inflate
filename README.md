@@ -1,2 +1,2 @@
 # git-inflate
-Ethically questionable ways to maximize your git stats
+Ethically questionable tips for maximizing your git stats
